@@ -14,21 +14,34 @@ compartilhar meus projetos ao longo dessa jornada.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+ 
 <img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
+    title="HTML"
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+    alt="html5" 
+    width="30" 
+    height="40"
+    style="padding-right: 10px;"/>
+    
 <img 
-    align="left" 
-    alt="html" 
-    title="html"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"      
-/>
+    title="Linux"
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+    alt="linux" 
+    width="30" 
+    height="40"
+    style="padding-right: 10px;"/>
+    
+<img 
+    title="MySQL"
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+    alt="mysql" 
+    width="30" 
+    height="40"
+    style="padding-right: 10px;"/> 
+    
+
+
+
