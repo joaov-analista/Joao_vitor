@@ -1,10 +1,9 @@
 ## 👨‍💻 João Vítor | **Analista de Dados**
 
-Me chamo João Vítor, tenho 24 anos e sou de Recife-PE. Estou começando minha carreira como Analista de Dados e criei esse Git para
+Me chamo João Vítor, tenho 24 anos e sou de Recife-PE.  Estou começando minha carreira como Analista de Dados e criei esse Git para
 compartilhar meus projetos ao longo dessa jornada.
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="Python" 
@@ -58,10 +57,9 @@ compartilhar meus projetos ao longo dessa jornada.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" 
     height="40" 
     alt="kaggle logo" 
-/>
-
-
-### Redes Sociais
+    />
+<br clear="both"/>
+###  📱 Redes Sociais
 
 <div>
 <a href="www.linkedin.com/in/joãovitoranalista" target="_blank">
@@ -72,7 +70,6 @@ compartilhar meus projetos ao longo dessa jornada.
     height="40" 
     alt="linkedin logo"/>
 
-
 <a href="https://www.instagram.com/_vtor.joao/" target="_blank">
 <img 
     title="Instagram"
@@ -82,16 +79,12 @@ compartilhar meus projetos ao longo dessa jornada.
     alt="instagram logo"/>
 </div>
 
+<br clear="both"/>
+
 ### 📊 Estatisticas
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaov-analista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaov-analista&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="280" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/joaov-analista/joaov-analista/output/snake.svg" alt="Snake animation" />
-
-###
 
